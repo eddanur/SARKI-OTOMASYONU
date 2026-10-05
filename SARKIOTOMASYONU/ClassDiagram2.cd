@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SARKIOTOMASYONU.ALBUM" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAEBgAAAAAA=</HashCode>
+      <FileName>ALBUM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SARKIOTOMASYONU.CustomerDbContext" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CustomerDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SARKIOTOMASYONU.FAVORİLER" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAAAAAAAAAAAAAAAAIAgAAgAAAAAg=</HashCode>
+      <FileName>FAVORİLER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SARKIOTOMASYONU.KULLANICI" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAQAACEAAAAAAAAAAAAIAAAIAAAAAAA=</HashCode>
+      <FileName>KULLANICI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SARKIOTOMASYONU.Program" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SARKIOTOMASYONU.SARKİ" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAgMAAAAAAAA=</HashCode>
+      <FileName>SARKİ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Data.Entity.DbContext" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

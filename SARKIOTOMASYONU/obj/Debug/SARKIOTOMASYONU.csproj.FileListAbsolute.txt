@@ -1,0 +1,25 @@
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\bin\Debug\SARKIOTOMASYONU.exe.config
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\bin\Debug\SARKIOTOMASYONU.exe
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\bin\Debug\SARKIOTOMASYONU.pdb
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\bin\Debug\EntityFramework.dll
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\bin\Debug\EntityFramework.xml
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.Form1.resources
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.Properties.Resources.resources
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.csproj.GenerateResource.cache
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTO.9BFC5164.Up2Date
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.exe
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.pdb
+C:\Users\edann\source\repos\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.FORM_SANATCI.resources
+C:\Users\edann\OneDrive\Masaüstü\2312503039 EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\edann\OneDrive\Masaüstü\2312503039 EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.exe
+C:\Users\edann\OneDrive\Masaüstü\2312503039 EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.pdb
+C:\Users\edann\OneDrive\Masaüstü\2312503049EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\edann\OneDrive\Masaüstü\2312503049EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.exe
+C:\Users\edann\OneDrive\Masaüstü\2312503049EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.pdb
+C:\Users\edann\OneDrive\Masaüstü\c++ öğrendiklerim\2312503049EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\edann\OneDrive\Masaüstü\c++ öğrendiklerim\2312503049EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.exe
+C:\Users\edann\OneDrive\Masaüstü\c++ öğrendiklerim\2312503049EDANUR DEDE,\SARKIOTOMASYONU\SARKIOTOMASYONU\obj\Debug\SARKIOTOMASYONU.pdb
